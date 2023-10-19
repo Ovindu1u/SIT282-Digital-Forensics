@@ -1,0 +1,32 @@
+Foremost version 1.5.7 by Jesse Kornblum, Kris Kendall, and Nick Mikus
+Audit File
+
+Foremost started at Thu Oct 19 21:45:05 2023
+Invocation: foremost -a -t all -i Recover.dd 
+Output directory: /home/user/Desktop/Data-files/week03/output
+Configuration file: /etc/foremost.conf
+------------------------------------------------------------------
+File: Recover.dd
+Start: Thu Oct 19 21:45:05 2023
+Length: 768 KB (786432 bytes)
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+0:	00000045.jpg 	      70 KB 	      23040 	 
+1:	00000186.gif 	      14 KB 	      95232 	  (585 x 585)
+2:	00000012.bmp 	     761 KB 	       6312 	  (Header dump)
+3:	00000046.bmp 	     744 KB 	      24040 	  (Header dump)
+4:	00000056.bmp 	     739 KB 	      28869 	  (Header dump)
+5:	00000200.bmp 	     667 KB 	     102701 	  (Header dump)
+6:	00000243.bmp 	     646 KB 	     124921 	  (Header dump)
+7:	00000246.bmp 	     645 KB 	     125952 	  (Header dump)
+Finish: Thu Oct 19 21:45:05 2023
+
+8 FILES EXTRACTED
+	
+jpg:= 1
+gif:= 1
+bmp:= 6
+------------------------------------------------------------------
+
+Foremost finished at Thu Oct 19 21:45:05 2023
