@@ -1,0 +1,24 @@
+.newlink {
+	COLOR: #cc0000; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; FONT-SIZE: 9px; FONT-WEIGHT: bold; TEXT-DECORATION: none
+}
+.smaller {
+	FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; FONT-SIZE: 9px; TEXT-DECORATION: none
+}
+.layout {
+	FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; FONT-SIZE: 12px; TEXT-DECORATION: none
+}
+A.secondbanner {
+	COLOR: #ffffff; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; FONT-SIZE: 10px; TEXT-DECORATION: none
+}
+A.secondbanner:visited {
+	COLOR: #ffffff; TEXT-DECORATION: none
+}
+A.secondbanner:hover {
+	BACKGROUND-COLOR: #ffffff; COLOR: #cc0000
+}
+A.links {
+	COLOR: #cc0000; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; FONT-SIZE: 12px; TEXT-DECORATION: none
+}
+A.links:hover {
+	TEXT-DECORATION: underline
+}
